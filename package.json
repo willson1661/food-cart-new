@@ -1,0 +1,17 @@
+{
+  "name": "foody-zone",
+  "version": "1.0.0",
+  "description": "A food delivery application",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "start": "serve .",
+    "build": "echo 'No build step needed for static site'"
+  },
+  "keywords": ["food", "delivery", "react"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
